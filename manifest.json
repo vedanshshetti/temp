@@ -1,0 +1,22 @@
+{
+  "packageId": "com.vedansh.pihole",
+  "host": "100.76.128.29",
+  "name": "Pi-hole Admin",
+  "launcherName": "PiHole",
+  "display": "standalone",
+  "themeColor": "#367fa9",
+  "backgroundColor": "#ffffff",
+  "enableNotifications": false,
+  "startUrl": "/admin/",
+  "iconUrl": "https://pi-hole.github.io/graphics/Vortex/Vortex_Logo.png",
+  "maskableIconUrl": "https://pi-hole.github.io/graphics/Vortex/Vortex_Logo.png",
+  "monochromeIconUrl": "https://pi-hole.github.io/graphics/Vortex/Vortex_Logo.png",
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "minSdkVersion": 19,
+  "orientation": "natural"
+}
